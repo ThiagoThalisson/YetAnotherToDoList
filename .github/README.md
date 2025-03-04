@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📋 `YetAnotherToDoList` <!-- omit in toc -->
+# ☕ `YetAnotherToDoList` <!-- omit in toc -->
 
 </div>
 
@@ -136,4 +136,4 @@ Após realizar modificações, você pode iniciar o projeto com o comando:
 mvn spring-boot:run
 ```
 
-[⬆ Back To Top]()
+[⬆ Back To Top](-yetanothertodolist-)
